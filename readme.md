@@ -37,7 +37,7 @@ This list provides a progression to help with the transition to management. From
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
 1. [~~Engineering to Management Transition~~](#engineering-to-management-transition)  
-2. [Building Teams](#building-teams)
+2. [~~Building Teams~~](#building-teams)
 3. [Roles](#roles)
     - [Executives](#executives)
     - [CTO & VP of Engineering](#cto--vp-of-engineering)
