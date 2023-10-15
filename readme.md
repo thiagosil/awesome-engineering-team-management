@@ -64,7 +64,7 @@ This list provides a progression to help with the transition to management. From
     - [Behavioral](#behavioral)
 9. [Team Dynamics](#team-dynamics)
 10. [Engineering](#engineering)
-    - [The Technical Engineering Manager](#the-technical-engineering-manager)
+    - [~~The Technical Engineering Manager~~](#the-technical-engineering-manager)
     - [Systems Complexity](#systems-complexity)
     - [Technology](#technology)
     - [Engineering Practices](#engineering-practices)
