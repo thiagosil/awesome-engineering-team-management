@@ -84,7 +84,7 @@ This list provides a progression to help with the transition to management. From
     - [Specifications](#specifications)
     - [Estimations](#estimations)
     - [Tickets](#tickets)
-16. [Agile](#agile)
+16. [~~Agile~~](#agile)
 17. [Key Performance Indicator (KPI)](#key-performance-indicator-kpi)
 18. [Objectives and Key Results (OKR)](#objectives-and-key-results-okr)
 19. [Training](#training)
