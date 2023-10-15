@@ -68,7 +68,7 @@ This list provides a progression to help with the transition to management. From
     - [Systems Complexity](#systems-complexity)
     - [Technology](#technology)
     - [Engineering Practices](#engineering-practices)
-    - [Technical Debt](#technical-debt)
+    - [~~Technical Debt~~](#technical-debt)
 11. [Remote Work](#remote-work)
 12. [Meetings](#meetings)
     - [1 on 1](#1-on-1)
